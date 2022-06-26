@@ -2,9 +2,9 @@
 
 [Run4Fun](https://github.com/Ehtish/Run4Fun)
 
-[Marksheet Generator]()
+[Marksheet Generator](https://github.com/Ehtish/Marksheet-Generator)
 
-[FIR Management System]()
+[FIR Management System](https://github.com/Ehtish/FIR-management-system)
 
 [Client Server]()
 
